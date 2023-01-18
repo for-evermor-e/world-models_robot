@@ -7,6 +7,7 @@ pip3 install -r requirements.txt
 mjpro150 (not mujoco210)
 
 pip3 install torch
+
 pip3 install torchvision
 
 pip3 install gym==0.15.3 (not gym 0.26.2)
